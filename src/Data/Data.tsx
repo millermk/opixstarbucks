@@ -45,7 +45,7 @@ export let products: Product[] = [
     },
     {
         imageName: 'GCS57.png',
-        productDescription: 'Starbucks Passion Tango lends is cheerful yet sultry shade to this polish that will have you dancing all nice.',
+        productDescription: 'Starbucks Passion Tango lends is cheerful yet sultry shade to this polish that will have you dancing all night.',
         productID: 'GCS57',
         productName: 'Passion In Tango Class'
     },
@@ -63,13 +63,13 @@ export let products: Product[] = [
     },
     {
         imageName: 'GCS60.png',
-        productDescription: 'The First Lady of Coffee? This Starbucks Siren is always looking beautiful in this deep green, and not you can too.',
+        productDescription: 'The First Lady of Coffee? This Starbucks Siren is always looking beautiful in this deep green, and now you can too.',
         productID: 'GCS60',
         productName: 'Siren In A Circle'
     },
     {
         imageName: 'GCS61.png',
-        productDescription: 'Want to try a new drink? Get you Starbucks Brewed White Tea iced. Want to try a new polish? Check out this light beige polish with a hint of yellow.',
+        productDescription: 'Want to try a new drink? Get your Starbucks Brewed White Tea iced. Want to try a new polish? Check out this light beige polish with a hint of yellow.',
         productID: 'GCS61',
         productName: 'White Tea Pr-iced To Sell'
     }
