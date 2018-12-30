@@ -33,7 +33,7 @@ export let products: Product[] = [
     },
     {
         imageName: 'GCS55.png',
-        productDescription: 'Starbucks® Blonde Espress is smooth and subtly sweet. You will be too with this polish inspired by the Starbucks® Blonde Espresso brand.',
+        productDescription: 'Starbucks® Blonde Espresso is smooth and subtly sweet. You will be too with this polish inspired by the Starbucks® Blonde Espresso brand.',
         productID: 'GCS55',
         productName: 'My Blondes Are A Girl\'s Best Friend'
     },
